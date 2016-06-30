@@ -19,12 +19,19 @@
 
 &lt;h2 id=&#34;what-could-bitenvoy-be&#34;&gt;What could BitEnvoy be?&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/artburkart/bitenvoy&#34;&gt;BitEnvoy&lt;/a&gt; will be an open
+&lt;p&gt;&lt;a href=&#34;https://github.com/bitenvoy/bitenvoy&#34;&gt;BitEnvoy&lt;/a&gt; will be an open
 source, cross-platform, cross-provider, pull-based deployment tool
 designed for flexible delivery of code, static files, and other
 artifacts.&lt;/p&gt;
 
 &lt;h2 id=&#34;what-does-bitenvoy-solve&#34;&gt;What does BitEnvoy solve?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Offloads some of the deployment responsibilities often assigned to CI tools&lt;/li&gt;
+&lt;li&gt;Minimizes necessity to manage SSH keys&lt;/li&gt;
+&lt;li&gt;Adds flexibility to deployment model; hard-coding deployments to
+servers is no longer necessary&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;BitEnvoy is a solution for the deployment/delivery piece of your
 software development pipeline. Let&amp;rsquo;s say your pipeline looks like the
@@ -101,26 +108,10 @@ months of active development before it ever sees the light of day. We
 don&amp;rsquo;t want it to be this way. Instead, we&amp;rsquo;re asking you what you want to
 see first.&lt;/p&gt;
 
-&lt;p&gt;Below is a list of what we think are the most exciting features BitEnvoy
-could offer. If you&amp;rsquo;re interested in this project, please &lt;a href=&#34;https://github.com/artburkart/bitenvoy&#34;&gt;give it a star on GitHub&lt;/a&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in BitEnvoy becoming a reality, please &lt;a href=&#34;https://github.com/bitenvoy/bitenvoy&#34;&gt;give it a star on GitHub&lt;/a&gt;
 and take a look at the issues we&amp;rsquo;ve created. If you&amp;rsquo;re interested in one
 of the issues, give it a thumbs up and we&amp;rsquo;ll prioritize its implementation
 accordingly!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;[Cloud-provider metadata discovery]()&lt;/li&gt;
-&lt;li&gt;[]()&lt;/li&gt;
-&lt;li&gt;[]()&lt;/li&gt;
-&lt;li&gt;[]()&lt;/li&gt;
-&lt;li&gt;[]()&lt;/li&gt;
-&lt;li&gt;[]()&lt;/li&gt;
-&lt;li&gt;[]()&lt;/li&gt;
-&lt;li&gt;[]()&lt;/li&gt;
-&lt;li&gt;[]()&lt;/li&gt;
-&lt;li&gt;[]()&lt;/li&gt;
-&lt;li&gt;[]()&lt;/li&gt;
-&lt;li&gt;[]()&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;p&gt;Thanks for your support!&lt;/p&gt;
 
