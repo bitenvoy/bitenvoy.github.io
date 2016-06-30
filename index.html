@@ -55,7 +55,7 @@ the VCS of choice, a repository&rsquo;s <code>staging</code> branch might be loc
 set of servers responsible for serving a webpage at
 <code>https://staging.example.com</code>. Once code is pushed to that branch, a CI
 system like Jenkins is typically triggered to exercise a series of tests
-on the latest code revision for the staging branch. Once all the tests
+on the latest code revision for the staging branch. When all the tests
 pass, Jenkins is usually responsible for delivering the code to the
 staging servers. This is typically performed using <code>scp</code>, <code>rsync</code>,
 <code>sftp</code>, or by some other means that requires your CI tool to have direct
@@ -71,7 +71,7 @@ information can be accessed freely if the CI tool is ever compromised.</p>
 intermediate deployer server is used for deployments, the intermediate
 deployer server is often hand-rolled as a simple stopgap that provides
 minimal flexibility around deployment strategies and unsatisfactory
-feedback for success and failure status of deployments.</p>
+feedback for success and failure statuses of deployments.</p>
 
 <p>These are the problems BitEnvoy will solve.</p>
 
